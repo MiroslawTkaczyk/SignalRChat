@@ -56,6 +56,8 @@ namespace SignalRChat
             });
 
             app.UseMvc();
+
+            //opis
         }
     }
 }
